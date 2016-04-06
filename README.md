@@ -16,5 +16,5 @@ This is an example code to demonstrate how to use Nordic nRF52 BLE chip for high
 
 ## License
 
-&copy; Syed Anas Imtiaz | 2015 | MIT License – [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
+&copy; Syed Anas Imtiaz | 2016 | MIT License – [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
 
